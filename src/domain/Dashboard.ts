@@ -1,0 +1,4 @@
+
+interface IDashboard {
+    lastUpdate: string
+}

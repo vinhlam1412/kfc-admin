@@ -1,0 +1,7 @@
+export const PAGINATION: { [key: string]: any } = {
+    DEFAULT_CURRENT_PAGE: 1,
+    DEFAULT_PAGE_SIZE: 25,
+    DEFAULT_TOTAL_ITEM: 0,
+    DEFAULT_PAGE_SIZE_OPTIONS: ["25", "50", "100", "150", "200"],
+    DEFAULT_TOTAL_PAGE: 1,
+}

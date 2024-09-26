@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "paths": {
+      "@/*": ["./src/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@api/*": ["./src/api/*"],
+      "@component/*": ["./src/component/*"],
+      "@config/*": ["./src/config/*"],
+      "@domain/*": ["./src/domain/*"],
+      "@hook/*": ["./src/hook/*"],
+      "@reducer/*": ["./src/reducer/*"],
+      "@resources/*": ["./src/resources/*"],
+      "@screen/*": ["./src/screen/*"],
+      "@store/*": ["./src/store/*"],
+      "@util/*": ["./src/util/*"],
+      "@locale/*": ["./src/locale/*"],
+    }
+  }
+}

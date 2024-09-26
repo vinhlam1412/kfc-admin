@@ -1,0 +1,164 @@
+key,en,vn
+login.logout_btn,Logout,Đăng xuất
+login.notPermission,Sorry. you don't have permission to access this page.,Xin lỗi. Bạn không có quyền truy cập trang này.
+message.success,Successful,Thành công
+message.fail,Failure,Không thành công
+message.loading,Loading,Đang tải
+error.error404,The page you are trying to access does not exist,Trang bạn truy cập không tồn tại
+error.not_found,Oops! Page not found,Rất tiếc! Không tìm thấy trang
+sidebar.report,Report,Báo cáo
+sidebar.players,Players,Danh sách người dùng
+sidebar.stores,Stores,Danh sách cửa hàng
+sidebar.campaigns,Campaigns,Danh sách chiến dịch
+sidebar.games,Games,Danh sách game
+sidebar.gifts,Gifts,Danh sách quà
+sidebar.settings,Settings,Cài Đặt
+sidebar.admins,Admins,Quản lý đăng nhập
+report.event_start,Event start,Chiến dịch đang hoạt động
+report.start_day,Start day,Ngày bắt đầu
+report.end_day,End day,Ngày kết thúc
+sidebar.setting_event,Campaign setting,Cài đặt chiến dịch
+setting.location,Location,Quà theo khu vực
+setting.period,Period,Thưởng theo tuần
+setting.combo,Combo,Combo cho chương trình
+setting.area,Area,Khu vực
+setting.percent,Percent,Phần trăm
+setting.note,Note,Chú ý
+setting.note_desc,The total percentage of the regions must be less than or equal to 100%.,Tổng phần trăm của các vùng phải nhỏ hơn hoặc bằng
+button.cancel,Cancel,Huỷ
+button.save,Save,Lưu
+game.required_game,Please input Game!,Vui lòng nhập Game!
+game.required_url_game,Please input Url Game!,Vui lòng nhập Url Game!
+game.description,Description,Mô tả
+game.code_game,Code Game,Mã Game
+game.required_code_game,Please enter Game code!,Vui lòng nhập mã Game!
+game.status,Status,Trạng thái
+game.edit_game,Game editing,Chỉnh sửa game
+game.create_game,Add new game,Thêm mới game
+game.update_successful,Update successful!,Cập nhật thành công!
+game.create_success,Create success,Thêm thành công!
+game.prioritize,Prioritize,Ưu tiên
+game.date_created,Create at,Ngày tạo
+game.action,Action,Hành động
+game.active,Active,Đang hoạt động
+game.stopped,Stopped,Đã ngừng
+game.delete_game,Delete Game,Xoá Game
+game.sure_delete_game,Are you sure you want to delete,Bạn có chắc chắn muốn xoá
+game.confirm,Confirm,Xác Nhận
+game.table_empty,No data!,Không có dữ liệu!
+game.name_game,Game name,Tên game
+game.add_new_game,Add new Game,Thêm mới Game
+campaign.name_capaign,Campaign,Chiến dịch
+campaign.start_day,Start date,Ngày bắt đầu
+campaign.end_date,End date,Ngày kết thúc
+campaign.campaign_updates,Campaign updates,Cập nhật chiến dịch
+campaign.delete_campaign,Delete campaign,Xoá chiến dịch
+campaign.success,Success,Thành công
+campaign.running,Running,Đang chạy
+campaign.dont_run,Don't run,Không chạy
+campaign.add_a_campaign,Add a campaign,Thêm chiến dịch
+campaign.edit_campaigns,Edit campaigns,Chỉnh sửa chiến dịch
+campaign.add_new_campaign,Add new campaign,Thêm mới chiến dịch
+campaign.campaign_code,Campaign code,Mã chiến dịch
+campaign.required_code,Please enter campaign code!,Vui lòng nhập mã chiến dịch!
+campaign.required_name,Please enter a campaign!,Vui lòng nhập chiến dịch!
+campaign.select_games,Select Games,Chọn Games
+campaign.time,Time,Thời gian
+campaign.start,Start,Bắt đầu
+campaign.End,End,Kết thúc
+campaign.notifycation_confirm,There are other campaigns active. Turn off the campaign so you can activate it!,Đang có chiến dịch khác hoạt động. Tắt hết chiến dịch để có thể kích hoạt chiến dịch!
+reward.accept_image,"You can only upload JPEG,JPG,PNG,GIF,BMP,WebP,HEIF file! please check","Bạn chỉ có thể tải lên tệp JPEG, JPG, PNG, GIF, BMP, WebP, HEIF! hãy kiểm tra"
+reward.smaller_2mb,Image must smaller than 2MB! please check,Hình ảnh phải nhỏ hơn 2MB! hãy kiểm tra
+reward.add_image,Images,Hình ảnh
+product_detail.validate_image,"There is an error uploading images, please check Product image!","Có lỗi khi upload hình ảnh, vui lòng kiểm tra lại hình ảnh sản phẩm!"
+store.name,Name Store,Tên cửa hàng
+store.address,Address,Địa chỉ
+store.code,Code,Mã cửa hàng
+store.id,ID store,ID cửa hàng
+store.update_at,Update at,Cập nhật ngày
+player.zalo_account,Zalo account,Tài khoản Zalo
+player.name,Name,Tên
+player.phone,Phone,SDT
+player.birthday,Birthday,Ngày sinh
+admin.name,Name,Tên
+admin.last_sign_in_at,Last sign in at,Lần truy cập cuối
+admin.update_account,Update Account,Cập nhật tài khoản
+admin.delete_account,Delete Account,Xoá tài khoản
+admin.title_confirm_delete,Are you sure you want to delete?,Bạn có chắc chắn muốn xoá?
+button.confirm,Confirm,Xác nhận
+table.empty,Data is empty,Không có dữ liệu
+admin.add_account,Add Account,Thêm tài khoản
+admin.confirm_password,Confirm Password,Xác nhận mật khẩu
+admin.password,Password,Mật khẩu
+message.required,Can't empty,Không để trống trường thông tin này
+validate.email,Email invalidate,Email không đúng định dạng
+validate.confirm_password,Please enter the correct Password!,Vui lòng nhập đúng Password!
+gift.present,Present,Quà tặng
+gift.voucher,Voucher, Mã giảm giá
+gift.add_voucher,Add Voucher,Thêm mã giảm giá
+gift.update_voucher,Update Voucher,Cập nhật mã giảm giá
+gift.digital_reward,Digital Reward,Phần thưởng kỹ thuật
+gift.physical_reward,Physical Reward,Phần thưởng hiện vật
+gift.given,Given,Đã trao
+gift.not_given,Not given,Chưa trao
+gift.start_date_less_equal_end_date,The start date must be less than or equal to the end date,Ngày bắt đầu phải nhỏ hơn hoặc bằng ngày kết thúc
+gift.delete_voucher,Delete Voucher,Xoá mã giảm giá
+store.add,Add store,Thêm cửa hàng
+store.update,Update store,Cập nhật cửa hàng
+store.delete,Delete store,Xóa cửa hàng
+store.id,ID store,ID cửa hàng
+store.number_id,Store ID number,Số ID cửa hàng
+placeholder.select_area,Select Area,Chọn khu vực
+setting.title_delete_config,Do you want to delete this configuration?,Bạn muốn xoá cấu hình này?
+button.agree,Agree,Đồng ý
+product.name,Product's name,Tên sản phẩm
+product.number_of_plays,Number of plays,Số lượt chơi
+reward_config.gift,Gift,Quà
+reward_config.quantity,Quantity,Số lượng
+reward_config.group1_group2_less_equal_100,The total percentage of Group 1 and Group 2 must be less than or equal to 100%,Tổng phần trăm của Group 1 và Group 2 phải nhỏ hơn hoặc bằng 100%
+day.monday,Monday,Thứ 2
+day.tuesday,Tuesday,Thứ 3
+day.wednesday,Wednesday,Thứ 4
+day.thursday,Thursday,Thứ 5
+day.friday,Friday,Thứ 6
+day.saturday,Saturday,Thứ 7
+day.sunday,Sunday,Chủ nhật
+reward_config.voucher_of_campaign,Voucher number of the campaign,Số voucher của chiến dịch
+reward_config.group_1,Group 1,Nhóm 1
+reward_config.group_2,Group 2,Nhóm 2
+reward_config.select_gift,Select gift,Chọn quà
+reward.add_gift,Add gift,Thêm quà tặng
+reward.price,Price,Giá
+reward.photo_link,Photo (Link),Ảnh (Đường dẫn)
+reward.update_gift,Update gift,Cập nhật quà tặng
+reward.delete_gift,Delete gift,Xoá quà tặng
+reward.status_used,Used,Đã dùng
+reward.type,Type,Loại
+reward.image,Images,Hình ảnh
+player.see_detail,See detail,Xem Chi tiết
+player.name_phone,"User name, phone number","Tên, SĐT Người dùng"
+gift.import_excel,Import excel,Nhập excel
+gift.download_sample_file_here,Download sample file here,Tải file mẫu tại đây
+gift.download_template,Download Template,Tải xuống mẫu
+gift.maximum_file_lines,Maximum file lines,Dòng tập tin tối đa
+gift.maximum_file_size,Maximum file size,Dung lượng file tối đa
+gift.choose_file_xlsx,Choose file *.xlsx from your computer,Chọn file *.xlsx từ máy tính
+gift_import.required_file,You have to upload file excel,Bạn phải tải lên file excel
+gift.upload_file_less_than_500_mb,Uploading file size must be less than 5Mb,Kích thước tệp tải lên phải nhỏ hơn 5Mb
+gift.upload_file_less_equal_500_line,The number of lines of the imported file must be less than or equal to 500,Số dòng Tệp được import phải nhỏ hơn hoặc bằng 500
+placeholder.select_event,Select Event,Chọn sự kiện
+gift.event,Event,Sự kiện
+file.invalid_format,Invalid file format,Định dạng tập tin không hợp lệ
+file.format_require,Required fields are null or undefined,Các trường bắt buộc là null hoặc không được xác định
+reward_config.week_gift_unique,Week and Gift must be unique,Tuần và Quà phải là duy nhất
+reward_config.week,Week,Tuần
+page.page_change,page,Trang
+status.inactive,Inactive,Ngưng hoạt động
+gift.add_ticket,Add ticket,Thêm vé
+gift.tickets,Tickets,Vé
+gift_ticket.name,Name,Tên
+gift_ticket.serial_no,Serial No,Serial No
+gift_ticket.pin_no,Pin No,Pin No
+player.block,Block,Block
+player.update,Update player,Cập nhật người chơi
+player.title_confirm_unblock,Are you sure you want to unblock the player?,Bạn có chắc chắn muốn bỏ chặn người chơi?

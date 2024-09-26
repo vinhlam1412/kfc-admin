@@ -1,0 +1,216 @@
+{
+    "login": {
+        "logout_btn": "Đăng xuất",
+        "notPermission": "Xin lỗi. Bạn không có quyền truy cập trang này."
+    },
+    "message": {
+        "success": "Thành công",
+        "fail": "Không thành công",
+        "loading": "Đang tải",
+        "required": "Không để trống trường thông tin này"
+    },
+    "error": {
+        "error404": "Trang bạn truy cập không tồn tại",
+        "not_found": "Rất tiếc! Không tìm thấy trang"
+    },
+    "sidebar": {
+        "report": "Báo cáo",
+        "players": "Danh sách người dùng",
+        "stores": "Danh sách cửa hàng",
+        "campaigns": "Danh sách chiến dịch",
+        "games": "Danh sách game",
+        "gifts": "Danh sách quà",
+        "settings": "Cài Đặt",
+        "admins": "Quản lý đăng nhập",
+        "setting_event": "Cài đặt chiến dịch"
+    },
+    "report": {
+        "event_start": "Chiến dịch đang hoạt động",
+        "start_day": "Ngày bắt đầu",
+        "end_day": "Ngày kết thúc"
+    },
+    "setting": {
+        "location": "Quà theo khu vực",
+        "period": "Thưởng theo tuần",
+        "combo": "Combo cho chương trình",
+        "area": "Khu vực",
+        "percent": "Phần trăm",
+        "note": "Chú ý",
+        "note_desc": "Tổng phần trăm của các vùng phải nhỏ hơn hoặc bằng",
+        "title_delete_config": "Bạn muốn xoá cấu hình này?"
+    },
+    "button": {
+        "cancel": "Huỷ",
+        "save": "Lưu",
+        "confirm": "Xác nhận",
+        "agree": "Đồng ý"
+    },
+    "game": {
+        "required_game": "Vui lòng nhập Game!",
+        "required_url_game": "Vui lòng nhập Url Game!",
+        "description": "Mô tả",
+        "code_game": "Mã Game",
+        "required_code_game": "Vui lòng nhập mã Game!",
+        "status": "Trạng thái",
+        "edit_game": "Chỉnh sửa game",
+        "create_game": "Thêm mới game",
+        "update_successful": "Cập nhật thành công!",
+        "create_success": "Thêm thành công!",
+        "prioritize": "Ưu tiên",
+        "date_created": "Ngày tạo",
+        "action": "Hành động",
+        "active": "Đang hoạt động",
+        "stopped": "Đã ngừng",
+        "delete_game": "Xoá Game",
+        "sure_delete_game": "Bạn có chắc chắn muốn xoá",
+        "confirm": "Xác Nhận",
+        "table_empty": "Không có dữ liệu!",
+        "name_game": "Tên game",
+        "add_new_game": "Thêm mới Game"
+    },
+    "campaign": {
+        "name_capaign": "Chiến dịch",
+        "start_day": "Ngày bắt đầu",
+        "end_date": "Ngày kết thúc",
+        "campaign_updates": "Cập nhật chiến dịch",
+        "delete_campaign": "Xoá chiến dịch",
+        "success": "Thành công",
+        "running": "Đang chạy",
+        "dont_run": "Không chạy",
+        "add_a_campaign": "Thêm chiến dịch",
+        "edit_campaigns": "Chỉnh sửa chiến dịch",
+        "add_new_campaign": "Thêm mới chiến dịch",
+        "campaign_code": "Mã chiến dịch",
+        "required_code": "Vui lòng nhập mã chiến dịch!",
+        "required_name": "Vui lòng nhập chiến dịch!",
+        "select_games": "Chọn Games",
+        "time": "Thời gian",
+        "start": "Bắt đầu",
+        "End": "Kết thúc",
+        "notifycation_confirm": "Đang có chiến dịch khác hoạt động. Tắt hết chiến dịch để có thể kích hoạt chiến dịch!"
+    },
+    "reward": {
+        "accept_image": "Bạn chỉ có thể tải lên tệp JPEG, JPG, PNG, GIF, BMP, WebP, HEIF! hãy kiểm tra",
+        "smaller_2mb": "Hình ảnh phải nhỏ hơn 2MB! hãy kiểm tra",
+        "add_image": "Hình ảnh",
+        "add_gift": "Thêm quà tặng",
+        "price": "Giá",
+        "photo_link": "Ảnh (Đường dẫn)",
+        "update_gift": "Cập nhật quà tặng",
+        "delete_gift": "Xoá quà tặng",
+        "status_used": "Đã dùng",
+        "type": "Loại",
+        "image": "Hình ảnh"
+    },
+    "product_detail": {
+        "validate_image": "Có lỗi khi upload hình ảnh, vui lòng kiểm tra lại hình ảnh sản phẩm!"
+    },
+    "store": {
+        "name": "Tên cửa hàng",
+        "address": "Địa chỉ",
+        "code": "Mã cửa hàng",
+        "id": "ID cửa hàng",
+        "update_at": "Cập nhật ngày",
+        "add": "Thêm cửa hàng",
+        "update": "Cập nhật cửa hàng",
+        "delete": "Xóa cửa hàng",
+        "number_id": "Số ID cửa hàng"
+    },
+    "player": {
+        "zalo_account": "Tài khoản Zalo",
+        "name": "Tên",
+        "phone": "SDT",
+        "birthday": "Ngày sinh",
+        "see_detail": "Xem Chi tiết",
+        "name_phone": "Tên, SĐT Người dùng",
+        "block": "Block",
+        "update": "Cập nhật người chơi",
+        "title_confirm_unblock": "Bạn có chắc chắn muốn bỏ chặn người chơi?"
+    },
+    "admin": {
+        "name": "Tên",
+        "last_sign_in_at": "Lần truy cập cuối",
+        "update_account": "Cập nhật tài khoản",
+        "delete_account": "Xoá tài khoản",
+        "title_confirm_delete": "Bạn có chắc chắn muốn xoá?",
+        "add_account": "Thêm tài khoản",
+        "confirm_password": "Xác nhận mật khẩu",
+        "password": "Mật khẩu"
+    },
+    "table": {
+        "empty": "Không có dữ liệu"
+    },
+    "validate": {
+        "email": "Email không đúng định dạng",
+        "confirm_password": "Vui lòng nhập đúng Password!"
+    },
+    "gift": {
+        "present": "Quà tặng",
+        "voucher": " Mã giảm giá",
+        "add_voucher": "Thêm mã giảm giá",
+        "update_voucher": "Cập nhật mã giảm giá",
+        "digital_reward": "Phần thưởng kỹ thuật",
+        "physical_reward": "Phần thưởng hiện vật",
+        "given": "Đã trao",
+        "not_given": "Chưa trao",
+        "start_date_less_equal_end_date": "Ngày bắt đầu phải nhỏ hơn hoặc bằng ngày kết thúc",
+        "delete_voucher": "Xoá mã giảm giá",
+        "import_excel": "Nhập excel",
+        "download_sample_file_here": "Tải file mẫu tại đây",
+        "download_template": "Tải xuống mẫu",
+        "maximum_file_lines": "Dòng tập tin tối đa",
+        "maximum_file_size": "Dung lượng file tối đa",
+        "choose_file_xlsx": "Chọn file *.xlsx từ máy tính",
+        "upload_file_less_than_500_mb": "Kích thước tệp tải lên phải nhỏ hơn 5Mb",
+        "upload_file_less_equal_500_line": "Số dòng Tệp được import phải nhỏ hơn hoặc bằng 500",
+        "event": "Sự kiện",
+        "add_ticket": "Thêm vé",
+        "tickets": "Vé"
+    },
+    "placeholder": {
+        "select_area": "Chọn khu vực",
+        "select_event": "Chọn sự kiện"
+    },
+    "product": {
+        "name": "Tên sản phẩm",
+        "number_of_plays": "Số lượt chơi"
+    },
+    "reward_config": {
+        "gift": "Quà",
+        "quantity": "Số lượng",
+        "group1_group2_less_equal_100": "Tổng phần trăm của Group 1 và Group 2 phải nhỏ hơn hoặc bằng 100%",
+        "voucher_of_campaign": "Số voucher của chiến dịch",
+        "group_1": "Nhóm 1",
+        "group_2": "Nhóm 2",
+        "select_gift": "Chọn quà",
+        "week_gift_unique": "Tuần và Quà phải là duy nhất",
+        "week": "Tuần"
+    },
+    "day": {
+        "monday": "Thứ 2",
+        "tuesday": "Thứ 3",
+        "wednesday": "Thứ 4",
+        "thursday": "Thứ 5",
+        "friday": "Thứ 6",
+        "saturday": "Thứ 7",
+        "sunday": "Chủ nhật"
+    },
+    "gift_import": {
+        "required_file": "Bạn phải tải lên file excel"
+    },
+    "file": {
+        "invalid_format": "Định dạng tập tin không hợp lệ",
+        "format_require": "Các trường bắt buộc là null hoặc không được xác định"
+    },
+    "page": {
+        "page_change": "Trang"
+    },
+    "status": {
+        "inactive": "Ngưng hoạt động"
+    },
+    "gift_ticket": {
+        "name": "Tên",
+        "serial_no": "Serial No",
+        "pin_no": "Pin No"
+    }
+}
